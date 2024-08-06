@@ -6,6 +6,3 @@ return secondTest;
 
 const anotherTest = 4 + 4;
 return anotherTest;
-
-const latest = 4 + 4;
-return latest;
