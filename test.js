@@ -7,5 +7,4 @@ return secondTest;
 const anotherTest = 4 + 4;
 return anotherTest;
 
-const bbb = 2;
 const aaa = 0;
