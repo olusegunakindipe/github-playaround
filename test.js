@@ -6,4 +6,4 @@ return anotherTest;
 
 const aaa = 0;
 
-const a1 = 0;
+const b2 = 0;
